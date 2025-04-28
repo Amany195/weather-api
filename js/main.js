@@ -128,15 +128,15 @@ input1.addEventListener("input",function(){
 })
 weatherr("cairo");
 
-var success = function (position) {
-    console.log(position);
-  };
+// var success = function (position) {
+//     console.log(position);
+//   };
   
-  var error = function (error) {
-    console.log(error);
-  };
+//   var error = function (error) {
+//     console.log(error);
+//   };
   
-  navigator.geolocation.getCurrentPosition(success, error);
+//   navigator.geolocation.getCurrentPosition(success, error);
   activee.addEventListener("click",function(){
     window.location.replace('../contact.html')
 
