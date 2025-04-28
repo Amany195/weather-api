@@ -1,0 +1,105 @@
+
+.nav-item:hover :not(.active),.nav-item .active{
+    outline:  2px solid  #009ad8;
+    border-radius: 30px;
+    color: #009ad8 !important;
+}
+.nav-item{
+    transition:  color 0.5s , border-color 0.5s;
+    margin-inline: 30px !important;
+
+}
+li{
+    margin-left: 10px !important;
+}
+nav ul li a{
+    color: inherit !important;
+}
+.titlenav p{
+font-size: 16px;
+}
+.btnfind{
+    border-radius: 25px;
+    top: 7px;
+    right: 7px;
+    background-color: #009ad8;
+    border: none !important;
+}
+.btnfind:hover{
+    background-color: #009ad8;
+    color: white;
+    
+}
+.party{
+    color: #009ad8;
+}
+nav{
+    background-color: #1e202b !important;
+}
+.what{
+    background-color: #1e202b;
+}
+.arrow{
+    left: 60px;
+    top: 15px;
+}
+.input1,form input,.card1,.foot{
+    background-color: #252836;
+}
+.input1{
+    color: #bfc1c8 !important;
+    border: 2px solid #393c48;
+}
+.card i{
+    color: #009ad8;
+}
+.card p{
+    color: #bfc1c8;
+}
+.card1 {
+    min-height: 400px;
+}
+.input2{
+    background-color: #1e202b;
+    border: none;
+}
+.foot{
+ 
+    margin-top: 100px !important;
+}
+.so1{
+    color: #009ad8;
+    font-size: 40px;
+    background-color: #1e202b;
+    font-size: 24px;
+}
+i{
+    width: 40px;
+    height: 40px;
+    
+}
+.social{
+    margin-left: 250px;
+}
+ .btn1{
+    background-color: #009ad8 !important;
+ right: 0 !important;
+   
+}
+.par{
+    color: #bfc1c8 ;
+}
+nav li{
+    font-size: 14px !important;
+}
+.noo{
+    color: #bfc1c8 ;
+}
+.in{
+    background-color: transparent;
+    padding: 10px;
+   
+}
+.input2::placeholder,.input1::placeholder{
+    color: #bfc1c8;
+}

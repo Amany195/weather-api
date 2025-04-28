@@ -1,0 +1,22 @@
+@media screen and (max-width:978px){
+   .social{
+    position:absolute;
+    left:-220px;
+    
+   }
+   .foo{
+    position: relative;
+   }
+   .pro{
+    width: 100% !important;
+   }
+   .formflex{
+    display: block !important;
+    
+   }
+   .in{
+    width: 100% !important;
+margin-bottom: 20px;
+   }
+  
+}
